@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LeLeyK+u7OIIFH66MZAgFGroOxzoOQCjYocXvQRAVC3fsDcKmZtmd8cmTVpGwaVuMOiqzhH6jkjnM63Fmf78ow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\knapi\\source\\repos\\Yield\\Yield.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\knapi\\.nuget\\packages\\morelinq\\3.4.2\\morelinq.3.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
